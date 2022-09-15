@@ -19,9 +19,6 @@ Summary by city type:
 Total fare for each city type:
 
 ![total_fares_by_city](https://github.com/krisnagoda/PyBer_Analysis/blob/e511a5b94b265687ab5f1af91c4bed9865b633d6/Resources/total_fares_by_city.png)
- 
-
-There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. (7 pt)
 
 ## Summary
 
