@@ -2,7 +2,7 @@
 
 ## Overview
 
-Preform exploratory analysis for PyBer to understand the relationships between type of city, number of drivers, and number of riders. Using this data to build insights that will inform strategies around accessibility and affordability in upcoming meeting with PyBer CEO V Isualize. 
+Preform exploratory analysis to understand the relationships between type of city, number of drivers, and number of riders. Using this data to build insights that will inform strategies around accessibility and affordability in upcoming meeting with PyBer CEO V Isualize. 
 
 ## Results
 
