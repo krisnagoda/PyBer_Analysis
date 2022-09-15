@@ -23,7 +23,7 @@ Total fare for each city type:
 ## Summary
 
 To retain our at-risk customers and employees, we need to target improvements in rural areas to drive customer adoption of PyBer services. The data shows customers in rural areas pay on average 41% more than customers in urban areas and while our drivers make a much higher fare per customer, the limited ride volume has a significant impact on their total compensation. We have the following business recommendations to address the disparities among our city types:
--	Realign fares pricing structure in rural areas, incorporating estimated efficiencies gained by increased gas mileage with longer distances and less frequent stops.
+-	Realign pricing structure in rural areas, incorporating estimated efficiencies gained by increased gas mileage with longer distances and less frequent stops.
 -	Increase customer marketing in rural areas highlighting the customer focused change made for “Hard working people like you/us, in rural areas.”
 -	Review trends one month post change to understand results of change. Did we increase penetration in rural areas? Did this increase ride volume? Did this increase total compensation for our drivers?
 
