@@ -6,7 +6,7 @@ Preform exploratory analysis for PyBer to understand the relationships between t
 
 ## Results
 
-### City Type Analysis
+### Analysis by City Type 
 
 ![city_types_summary](https://github.com/krisnagoda/PyBer_Analysis/blob/6d3cd89cecef5b7c3513b257bb27582f3a384af5/Resources/city_types_summary_v2.png)
  
