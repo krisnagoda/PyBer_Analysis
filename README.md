@@ -7,6 +7,7 @@ Preform exploratory analysis for PyBer to understand the relationships between t
 ## Results
 
 ### Analysis by City Type 
+ - Population density may have a relation with our average fare per ride. PyBer’s lowest fares are in dense urban areas, followed by suburban areas and our highest fares in rural areas.  
 
 ![city_types_summary](https://github.com/krisnagoda/PyBer_Analysis/blob/6d3cd89cecef5b7c3513b257bb27582f3a384af5/Resources/city_types_summary_v2.png)
  
