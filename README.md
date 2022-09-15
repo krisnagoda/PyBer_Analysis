@@ -12,7 +12,11 @@ Population density is a big factor for both the customer and employee PyBer expe
  - Customers in rural areas can expect to pay, on average, 41% more than customers in urban area. While that can be expected when you need a driver to take you a longer distance, it can limit usage of our services in rural areas.
  - Employees in rural areas can expect to make, on average, 235% more from each customer in urban areas but these drivers can expect a much lower ride volume.
 
+Summary by city type:
+
 ![city_types_summary](https://github.com/krisnagoda/PyBer_Analysis/blob/6d3cd89cecef5b7c3513b257bb27582f3a384af5/Resources/city_types_summary_v2.png)
+
+Total fares for each city type:
 
 ![total_fares_by_city](https://github.com/krisnagoda/PyBer_Analysis/blob/e511a5b94b265687ab5f1af91c4bed9865b633d6/Resources/total_fares_by_city.png)
  
