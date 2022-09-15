@@ -16,7 +16,7 @@ Summary by city type:
 
 ![city_types_summary](https://github.com/krisnagoda/PyBer_Analysis/blob/6d3cd89cecef5b7c3513b257bb27582f3a384af5/Resources/city_types_summary_v2.png)
 
-Total fares for each city type:
+Total fare for each city type:
 
 ![total_fares_by_city](https://github.com/krisnagoda/PyBer_Analysis/blob/e511a5b94b265687ab5f1af91c4bed9865b633d6/Resources/total_fares_by_city.png)
  
